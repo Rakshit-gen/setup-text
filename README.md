@@ -1,4 +1,4 @@
-```
+
 # Next.js Chat App with NextAuth.js, Prisma, and Cloudinary
 
 This is a real-time chat application built using Next.js, NextAuth.js for authentication, Prisma for database management, and Cloudinary for image sharing.
