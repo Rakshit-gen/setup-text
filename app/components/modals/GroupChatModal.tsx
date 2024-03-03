@@ -28,7 +28,7 @@ const GroupChatModal: React.FC<GroupChatModalProps> = ({
   users = []
 }) => {
   const router = useRouter();
-  const [isLoading, setIsLoading] = useState(false);
+  const [isLoading, setLoading] = useState(false);
 
   const {
     register,
