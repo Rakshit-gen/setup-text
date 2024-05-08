@@ -35,7 +35,7 @@ const UserList: React.FC<UserListProps> = ({
               text-2xl 
               font-bold 
               text-neutral-800 
-              py-4
+              py-5
             "
           >
             People
