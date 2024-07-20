@@ -48,7 +48,7 @@ const Header: React.FC<HeaderProps> = ({ conversation }) => {
         sm:px-4 
         py-3 
         px-4 
-        lg:px-6 
+        lg:px-5
         justify-between 
         items-center 
         shadow-sm
